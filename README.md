@@ -2,6 +2,7 @@
 
 My name is Kellina Oliveira, and I'm from Brazil (🇧🇷). I’m currently learning Web Development. :)
 I'm passionate about Front-end development, so I've created some projects as my portfolio (https://portfolio.kellina.com.br) and I've always loved to produce a lot of content during my studies.
+Some technologies that I have been working on small personal projects: javascript, html, css, postgres and react.
 
 In my free time, I like to watch movies (🎞️) and series (📺) and to read books (📚).
 
